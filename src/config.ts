@@ -23,20 +23,20 @@ export type Frontmatter = {
   lang?: string;
 };
 
-export const COMMUNITY_INVITE_URL = `https://discord.gg/sirius`;
+export const COMMUNITY_INVITE_URL = `https://discord.io/imrp`;
 
-export const GITHUB_EDIT_URL = `https://github.com/SiriusDevelopmentGroup/rayfield-docs/tree/master`;
+export const GITHUB_EDIT_URL = `discord,io/imrp`;
 
 // See "Algolia" section of the README for more information.
 export const ALGOLIA = {
-  indexName: "rayfield",
+  indexName: "indomerdeka",
   appId: "Y1DPKMTCPW",
   apiKey: "23dce9cc88cb86b13abd821958b35469",
 };
 
 export type Sidebar = Record<string, { text: string; link: string }[]>;
 export const SIDEBAR: Sidebar = {
-  Configuration: [
+  Utama: [
     { text: "Introduction", link: "introduction" },
     { text: "Booting the Library", link: "booting-library" },
     { text: "Windows", link: "windows" },
