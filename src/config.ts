@@ -1,15 +1,15 @@
 export const SITE = {
-  title: "IMRP Documentation",
-  description: "The IMRP Documentation",
+  title: "Rayfield Documentation",
+  description: "The Rayfield Interface Suite Documentation",
   defaultLanguage: "en_US",
 };
 
 export const OPEN_GRAPH = {
   image: {
-    src: "https://cdn.discordapp.com/attachments/1117745373939781672/1119487047460212746/Proyek_Baru_1340A8E.png",
+    src: "https://rayfield.dev/default-og-image.png",
     alt: "Sirius Rayfield logo in front of a beautiful picture of a lake in snowy mountains.",
   },
-  twitter: "@Indonesiamerdeka",
+  twitter: "@sirius.software",
 };
 
 // This is the type of the frontmatter you put in the docs markdown files.
@@ -29,7 +29,7 @@ export const GITHUB_EDIT_URL = `https://github.com/SiriusDevelopmentGroup/rayfie
 
 // See "Algolia" section of the README for more information.
 export const ALGOLIA = {
-  indexName: "Indonesia Merdeka",
+  indexName: "rayfield",
   appId: "Y1DPKMTCPW",
   apiKey: "23dce9cc88cb86b13abd821958b35469",
 };
