@@ -1,30 +1,13 @@
 ---
-title: Loading the Rayfield Library
-description: Booting the Rayfield Library
+title: Tentang Indonesia Merdeka Roleplay
+description: Tentang
 layout: ../layouts/MainLayout.astro
 ---
 
-## Booting the Library
+## Indonesia Merdeka
 
-```lua
-local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
-```
+**Indonesia Merdeka Roleplay Dibuat pada tanggal 21-02-23 dengan tujuan membuat roleplay dengan experience terbaik, Kami mengutamakan keamanan roleplay, Dan kami anti player rusuh/tidak menaati peraturan roleplay, Kami akan bertindak tegas kepada player yang tidak menaati peraturan roleplay #IMRP**
 
-### Secure Mode
+### Menjadi Staff IMRP
 
-If the game you're trying to run Rayfield Interface Suite on, is detecting or crashing when you use Rayfield Interface Suite, try using Secure Mode:
-
-- Place `getgenv().SecureMode = true` above the initial Rayfield loadstring
-
-Rayfield will now use Secure Mode and attempt to reduce detection
-
-- Note: This may cause some elements of the UI to look lower quality or may increase loading times slightly
-
-### Enabling Configuration Saving
-
-- Enable ConfigurationSaving in the CreateWindow function
-- Choose an appropiate FileName in the CreateWindow function
-- Choose an unique flag identifier for each supported element you create
-- Place `Rayfield:LoadConfiguration()` at the bottom of all your code
-
-Rayfield will now automatically save and load your configuration
+Kami tidak sembarangan menerima orang menjadi staff server kami, Anda harus bisa menjawab pertanyaan dari kami agar bisa menjadi staff server, dan anda harus bertindak tegas kepada orang yang fail roleplay.
