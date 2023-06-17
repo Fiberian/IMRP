@@ -1,29 +1,17 @@
 ---
 title: Introduction
-description: The official Fiber Hub Website
+description: The official Indonesia Merdeka Roleplay Website
 layout: ../layouts/MainLayout.astro
 ---
 
-[![image](https://cdn.discordapp.com/attachments/1117745373939781672/1119465815163555921/image.png)](https://discord.gg/sirius)
+[![image](https://tr.rbxcdn.com/ff817ded7a9b30d31d0114239b3b912f/500/280/Image/Jpeg)](https://discord.io/IndoMerdeka)
 
-> **Informasi** <br/>
-> Halo Selamat Datang Di Website Official Fiber Hub, Website Ini Dibuat Oleh Sirius Team, Kami Sangat Berterimakasih Kepada Sirius Karena Telah Memberikan Framework Kepada Kami! <br/>
+***Indonesia Merdeka Roleplay adalah roleplay Car Driving Indonesia dengan keamanan yang ketat, Staff IMRP Akan memantau semua orang, Jika ada yang rusuh/melanggar peraturan kami, akan langsung kami warn atau bahkan ban permanent***
 
-> Terakhir Diupdate Pada Tanggal **<lastupdate/>**
+## Bagaimana cara join IMRP
 
-## Kenapa Harus Menggunakan Fiber Hub?
-
-- **Performance Di Utamakan Oleh Kami**
--  **Update Setiap Hari**
--  **Open Source**
--  **Tidak Menggunakan Key Sistem**
-
-  - **Menggunakan UI Yang Bagus**
-  - **Menjaga Privasi Anda**
-  - **25K Line Code But Amazing Peformance**
-
--  **Not Skid**
+> ***Jika ada roleplay yang di host oleh Blue_Khezu anda dapat join ke roleplaynya (hanya untuk publik server cdid), kami mempunyai discord server untuk bermain roleplay khusus dengan tingkat keamanan yang terjamin (discord.io/IndoMerdeka)***
 
 ## Informasi
 
-> **Kami Tidak Mengklaim Semua Code Milik Kami (Dicode Oleh Kami) Kami Hanya Merecode Script Untuk Menjadi Lebih Baik, Dan Kami Akan Memberikan Credit Kepada Orang Yang Telah Membantu Kami**
+> ***Jika anda di banned dari server roleplay kami anda dapat mengajukan banding ke discord official IndoMerdeka (discord.io/IndoMerdeka).***
