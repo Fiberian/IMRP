@@ -13,8 +13,8 @@ layout: ../layouts/MainLayout.astro
 Kami tidak sembarangan menerima orang menjadi staff server kami, Anda harus bisa menjawab pertanyaan dari kami agar bisa menjadi staff server, dan anda harus bertindak tegas kepada orang yang fail roleplay.
 
 #### Team IMRP
----
-title: Tentang Indonesia Merdeka Roleplay
-description: Tentang
-layout: ../layouts/MainLayout.astro
----
+| Discord Nickname | Role |
+|-----:|-----------|
+|     patah gaming#1237| Better Than Founder|
+|     Gabzヅ#1111| Founder    |
+|     Skidzo#2726| Co-Founder       |
