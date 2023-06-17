@@ -1,12 +1,12 @@
 export const SITE = {
-  title: "Rayfield Documentation",
-  description: "The Rayfield Interface Suite Documentation",
+  title: "Indonesia Merdeka",
+  description: "The Indonesia Merdeka Roleplay Documentation",
   defaultLanguage: "en_US",
 };
 
 export const OPEN_GRAPH = {
   image: {
-    src: "https://rayfield.dev/default-og-image.png",
+    src: "https://cdn.discordapp.com/attachments/1117745373939781672/1119487047460212746/Proyek_Baru_1340A8E.png",
     alt: "Sirius Rayfield logo in front of a beautiful picture of a lake in snowy mountains.",
   },
   twitter: "@sirius.software",
