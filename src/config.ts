@@ -36,10 +36,10 @@ export const ALGOLIA = {
 
 export type Sidebar = Record<string, { text: string; link: string }[]>;
 export const SIDEBAR: Sidebar = {
-  Utama: [
+  Informasi: [
     { text: "Introduction", link: "introduction" },
-    { text: "Booting the Library", link: "booting-library" },
-    { text: "Windows", link: "windows" },
+    { text: "Tentang IMRP", link: "about-imrp" },
+    { text: "Informasi", link: "information" },
   ],
   Interaction: [
     { text: "Elements", link: "interactive-elements" },
