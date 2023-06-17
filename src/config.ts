@@ -1,6 +1,6 @@
 export const SITE = {
-  title: "Rayfield Documentation",
-  description: "The Rayfield Interface Suite Documentation",
+  title: "IMRP Documentation",
+  description: "The IMRP Documentation",
   defaultLanguage: "en_US",
 };
 
@@ -9,7 +9,7 @@ export const OPEN_GRAPH = {
     src: "https://rayfield.dev/default-og-image.png",
     alt: "Sirius Rayfield logo in front of a beautiful picture of a lake in snowy mountains.",
   },
-  twitter: "@sirius.software",
+  twitter: "@Indonesiamerdeka",
 };
 
 // This is the type of the frontmatter you put in the docs markdown files.
@@ -29,7 +29,7 @@ export const GITHUB_EDIT_URL = `https://github.com/SiriusDevelopmentGroup/rayfie
 
 // See "Algolia" section of the README for more information.
 export const ALGOLIA = {
-  indexName: "rayfield",
+  indexName: "Indonesia Merdeka",
   appId: "Y1DPKMTCPW",
   apiKey: "23dce9cc88cb86b13abd821958b35469",
 };
